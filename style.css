@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color:#CAE0FC;
+}
+
+#projects {
+  background-color: #CAE0FC;
+}
+
+section {
+  padding-top: 5rem;
+}
